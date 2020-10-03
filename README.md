@@ -5,4 +5,6 @@
 A collection of code snippets and small guides I keep for myself (because I keep forgetting things :$)
 </p>
 
-
+## Index
+- [Bash](snippets/bash.md)
+- [Zsh](snippets/zsh.md)
