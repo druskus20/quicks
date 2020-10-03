@@ -8,3 +8,7 @@ A collection of code snippets and small guides I keep for myself (because I keep
 ## Index
 - [Bash](snippets/bash.md)
 - [Zsh](snippets/zsh.md)
+- [Linux](snippets/linux.md)
+- [Web Design](snippets/web.md)
+- [Git](snippets/git.md)
+
