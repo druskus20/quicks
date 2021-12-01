@@ -32,3 +32,13 @@ cursor_mode
 ```
 
 source: [thevaluable.dev](https://thevaluable.dev/zsh-install-configure/)
+
+
+#### Rebuild completion cache
+
+```sh
+rm -i ${ZDOTDIR:-${HOME:?No ZDOTDIR or HOME}}/.zcompdump &&
+compinit
+```
+
+source: [stackexchange](https://unix.stackexchange.com/questions/2179/rebuild-auto-complete-index-or-whatever-its-called-and-binaries-in-path-cach)
